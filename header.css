@@ -78,7 +78,7 @@
     .container__titulo--negrito{
         font-weight: 700;
     }
-
+    
     .opções{
         display: flex;
         align-items: center;
@@ -129,5 +129,4 @@
     .container__texto{
         display: block;
     }
-}
-}
+
